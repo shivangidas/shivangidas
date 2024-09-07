@@ -1,6 +1,11 @@
 ### Hi there 👋
 This had to be done!
 
+[My personal blog](https://shivangidas.github.io/blog/)
+
+[Instagram where I post paintings](https://www.instagram.com/made.by.shivangi)
+
+
 <!--
 **shivangidas/shivangidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
