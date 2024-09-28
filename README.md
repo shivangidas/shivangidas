@@ -3,6 +3,8 @@ This had to be done!
 
 [My personal blog](https://shivangidas.github.io/blog/)
 
+[Second Brain Blog](https://secondbrainblog.com/)
+
 [More things](https://shivangidas.github.io/) to explore.
 
 
