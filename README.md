@@ -1,11 +1,11 @@
 ### Hi there 👋
 This had to be done!
 
-[My personal blog](https://shivangidas.github.io/blog/)
+[My personal blog](https://shivangidas.com/blog/)
 
 [Second Brain Blog](https://secondbrainblog.com/)
 
-[More things](https://shivangidas.github.io/) to explore.
+[More things](https://shivangidas.com) to explore.
 
 
 <!--
